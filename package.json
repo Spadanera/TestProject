@@ -1,0 +1,7 @@
+{
+    "name": "TestProject",
+    "devDependencies": {},
+    "dependencies": {
+        "jquery": "^3.3.1"
+    }
+}
