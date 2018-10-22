@@ -1,8 +1,9 @@
 {
-    "name": "TestProject",
+    "name": "TestProject_01",
     "devDependencies": {},
     "dependencies": {
         "@babel/core": "^7.1.2",
+        "gulp": "^3.9.1",
         "jquery": "^3.3.1"
     }
 }
