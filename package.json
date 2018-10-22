@@ -2,6 +2,7 @@
     "name": "TestProject",
     "devDependencies": {},
     "dependencies": {
+        "@babel/core": "^7.1.2",
         "jquery": "^3.3.1"
     }
 }
